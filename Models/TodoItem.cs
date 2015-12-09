@@ -1,4 +1,4 @@
-namespace asp.net5-todo-example.Models
+namespace Todo.Models
 {
 	public class TodoItem
 	{
